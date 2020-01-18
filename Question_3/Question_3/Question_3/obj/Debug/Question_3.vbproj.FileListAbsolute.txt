@@ -1,0 +1,12 @@
+C:\Users\Anthony Kruger\iCloudDrive\Desktop\Richfield\year_1\semester_1\Programming_511\Assingment_2\Assignment_2\Question_3\Question_3\Question_3\obj\Debug\Question_3.vbprojAssemblyReference.cache
+C:\Users\Anthony Kruger\iCloudDrive\Desktop\Richfield\year_1\semester_1\Programming_511\Assingment_2\Assignment_2\Question_3\Question_3\Question_3\obj\Debug\Question_3.Resources.resources
+C:\Users\Anthony Kruger\iCloudDrive\Desktop\Richfield\year_1\semester_1\Programming_511\Assingment_2\Assignment_2\Question_3\Question_3\Question_3\obj\Debug\Question_3.vbproj.GenerateResource.cache
+C:\Users\Anthony Kruger\iCloudDrive\Desktop\Richfield\year_1\semester_1\Programming_511\Assingment_2\Assignment_2\Question_3\Question_3\Question_3\obj\Debug\Question_3.vbproj.CoreCompileInputs.cache
+C:\Users\Anthony Kruger\iCloudDrive\Desktop\Richfield\year_1\semester_1\Programming_511\Assingment_2\Assignment_2\Question_3\Question_3\Question_3\bin\Debug\Question_3.exe.config
+C:\Users\Anthony Kruger\iCloudDrive\Desktop\Richfield\year_1\semester_1\Programming_511\Assingment_2\Assignment_2\Question_3\Question_3\Question_3\bin\Debug\Question_3.exe
+C:\Users\Anthony Kruger\iCloudDrive\Desktop\Richfield\year_1\semester_1\Programming_511\Assingment_2\Assignment_2\Question_3\Question_3\Question_3\bin\Debug\Question_3.pdb
+C:\Users\Anthony Kruger\iCloudDrive\Desktop\Richfield\year_1\semester_1\Programming_511\Assingment_2\Assignment_2\Question_3\Question_3\Question_3\bin\Debug\Question_3.xml
+C:\Users\Anthony Kruger\iCloudDrive\Desktop\Richfield\year_1\semester_1\Programming_511\Assingment_2\Assignment_2\Question_3\Question_3\Question_3\obj\Debug\Question_3.ITI_Hub_regional_sales.resources
+C:\Users\Anthony Kruger\iCloudDrive\Desktop\Richfield\year_1\semester_1\Programming_511\Assingment_2\Assignment_2\Question_3\Question_3\Question_3\obj\Debug\Question_3.exe
+C:\Users\Anthony Kruger\iCloudDrive\Desktop\Richfield\year_1\semester_1\Programming_511\Assingment_2\Assignment_2\Question_3\Question_3\Question_3\obj\Debug\Question_3.xml
+C:\Users\Anthony Kruger\iCloudDrive\Desktop\Richfield\year_1\semester_1\Programming_511\Assingment_2\Assignment_2\Question_3\Question_3\Question_3\obj\Debug\Question_3.pdb
